@@ -1,0 +1,159 @@
+body{
+
+
+
+}
+h1 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3.5rem;
+  letter-spacing: 0.2rem
+
+}
+h2 {
+  font-family: serif;
+  font-size: 2.5rem;
+}
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+.headline {
+  font-family: cursive, sans-serif;
+  font-size: 1.5rem;
+
+
+}
+/* Section 1 */
+#Introduction {
+  background-color: #EDF6E5;
+}
+
+
+
+.title {
+  text-align: center;
+  margin-top: 10px;
+}
+.container {
+  margin-top: 100px;
+text-align: center;
+
+
+}
+
+
+.profile-1 {
+  height: 500px;
+  width: 500px;
+  background-color: #ECEFA4;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+
+
+
+}
+.profile-2 {
+  height: 500px;
+  width: 500px;
+  background-color: #ECEFA4;
+}
+.profile-3 {
+  height: 500px;
+  width: 500px;
+  background-color:#ECEFA4;
+}
+.profile-4 {
+  height: 500px;
+  width: 500px;
+  background-color: #ECEFA4;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+img {
+  width: 100px;
+  border-radius: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+
+
+}
+.pro {
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+}
+.font {
+  margin: 10px 5px 5px;
+
+}
+.font:hover {
+  color: #DF5E5E;
+}
+.btn-download {
+  margin: 10px 3px;
+}
+
+/* Section 2 */
+
+#Body {
+  background-color: #C9E4C5;
+}
+
+.pricing-column {
+  padding: 5% 3%;
+}
+.Service {
+  text-align: center;
+}
+.Service-Top {
+
+  text-align: center;
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3.5rem;
+  padding-top: 70px;
+}
+p {
+  text-align: center;
+}
+
+
+/* Carousel Section */
+
+#testimonials {
+  background-color: #B5CDA3;
+}
+
+#testimonial {
+  text-align: center;
+  padding: 3% 5% 10%;
+}
+.testimonial-image {
+  width: 200px;
+}
+.pro-2 {
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+}
+em {
+  margin-left: 2rem;
+}
+
+#footer {
+  text-align: center;
+  padding: 5% 3% 5%;
+  background-color: #E5FBB8;
+}
+.copyright {
+  margin: 3px 20px 3px;
+}
+.Copyright2:hover {
+  color: #FF7600;
+}
+
+.Motto {
+  font-family: "Montserrat-Black";
+   font-weight: bold;
+   font-size: 2.5rem;
+   line-height: 1.5;
+   color: #fff;
+}
